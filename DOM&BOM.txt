@@ -12,9 +12,9 @@ With the object model, JavaScript gets all the power it needs to create dynamic 
 •	JavaScript can add new HTML elements and attributes
 •	JavaScript can react to all existing HTML events in the page
 •	JavaScript can create new HTML events in the page
-
 API-Application Programming Interfaces,its acts as medium between DOM and javascript.
-WINDOW OBJECT;
+
+WINDOW OBJECT:
 The window object represents an open window in a browser.
 If a document contain frames (<iframe> tags), the browser creates one window object for the HTML document, and one additional window object for each frame.
 Properties of window object;
