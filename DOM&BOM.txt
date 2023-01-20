@@ -1,0 +1,34 @@
+Different between DOM and window object model
+DOM:
+DOM-Document Object Model
+Document  represent files and object represent elements,tags,attributes and ect in html.the document has more elements in html file it seems like tree.
+Ex-html,head,body.. While browsing this html file, DOM takes element as object.
+With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
+With the object model, JavaScript gets all the power it needs to create dynamic HTML:
+•	JavaScript can change all the HTML elements in the page
+•	JavaScript can change all the HTML attributes in the page
+•	JavaScript can change all the CSS styles in the page
+•	JavaScript can remove existing HTML elements and attributes
+•	JavaScript can add new HTML elements and attributes
+•	JavaScript can react to all existing HTML events in the page
+•	JavaScript can create new HTML events in the page
+
+API-Application Programming Interfaces,its acts as medium between DOM and javascript.
+WINDOW OBJECT;
+The window object represents an open window in a browser.
+If a document contain frames (<iframe> tags), the browser creates one window object for the HTML document, and one additional window object for each frame.
+Properties of window object;
+CONSOLE-Returns the Console Object for the window.
+DOCUMENT-Returns the Document object for the window.
+Functions of window object; 
+alert()-displays an alret box with a message and ok button.
+Confirm()-displays a dialogue box with a message and an ok and a cancel button.
+		
+
+
+
+
+
+
+
+
